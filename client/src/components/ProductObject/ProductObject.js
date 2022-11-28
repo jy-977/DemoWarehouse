@@ -1,0 +1,1 @@
+export { StyledProductObject as default } from "./StyledProductObject"
